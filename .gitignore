@@ -1,0 +1,7 @@
+.DS_STORE
+*.o
+_source/build/
+_source/build/**/*
+*.app
+*.swp
+*.pbxuser
